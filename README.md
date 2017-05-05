@@ -6,7 +6,9 @@ A boilerplate ready to create and publish new npm packages.
 
 1. Change this `README` to include the content of your package (template included as a comment on the README);
 2. Change the `LICENSE` to your own license and personal information;
-3. Change the `package.json`.
+3. Change the `package.json`;
+4. Put and change the code inside the package;
+5. Publish it with: `npm publish` or follow the official instructions [here](https://docs.npmjs.com/getting-started/publishing-npm-packages).
 
 ## Author
 [Danilo Araújo Silva (silva.danilo.araujo@gmail.com)](https://goo.gl/XW7hi3).

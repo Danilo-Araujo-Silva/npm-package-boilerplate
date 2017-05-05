@@ -1,26 +1,24 @@
 {
-  "name": "{package-name}",
+  "name": "npm-package-boilerplate",
   "version": "0.0.1",
-  "description": "{Package description.}",
-  "main": "{main.entry.file.js}",
+  "description": "A boilerplate ready to create and publish new npm packages.",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/{your-github-user}/{your-github-repository}.git"
+    "url": "git+https://github.com/Danilo-Araujo-Silva/npm-package-boilerplate.git"
   },
   "keywords": [
-    "put"
-    "the",
+    "npm"
     "package",
-    "keywords",
-    "here"
+    "boilerplate"
   ],
-  "author": "{Your Full Name}",
-  "license": "{YOUR_LICENSE}",
+  "author": "Danilo Araújo Silva",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/{your-github-user}/{your-github-repository}/issues"
+    "url": "https://github.com/Danilo-Araujo-Silva/npm-package-boilerplate/issues"
   },
-  "homepage": "https://github.com/{your-github-user}/{your-github-repository}#readme"
+  "homepage": "https://github.com/Danilo-Araujo-Silva/npm-package-boilerplate#readme"
 }
